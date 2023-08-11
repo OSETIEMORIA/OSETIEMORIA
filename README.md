@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RIA
-- 👀 I’m interested in User experience design, Open Source and contributing to Open Source Projects
-- 🌱 I’m currently learning User Experience Design and in the contribution phase of the Outreachy internship 
-- 💞️ I’m looking to collaborate on projects that make lives easier for people and bringing education to underprivileged and underrepresented people in my country 
+- 👀 I’m interested in User experience research, Open Source, and contributing to Open Source Projects
+- 🌱 I’m currently a User Experience researcher/Designer and an Outreachy intern with Oppia
+- 💞️ I’m looking to collaborate on projects that make lives easier for people and bring education to underprivileged and underrepresented learners, teachers and parents.
 - 📫 How to reach me Twitter @riastillonfia, Instagram @ria_designz, LinkedIn @Osetiemoria Ebelubhuhi
 
 <!---
