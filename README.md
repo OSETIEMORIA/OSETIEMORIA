@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RIA
-- 👀 I’m interested in User experience research, Open Source, and contributing to Open Source Projects
+- 👀 I’m interested in product design, user experience research, Open Source, and contributing to Open Source Projects
 - 🌱 I’m currently a User Experience researcher/Designer and Co-lead of the Learner Feedback team at Oppia
-- 💞️ I’m looking to collaborate on projects that make lives easier for people and bring education to underprivileged and underrepresented learners, teachers and parents.
+- 💞️ I’m looking to collaborate on product design projects 
 - 📫 How to reach me Twitter @riastillonfia, Instagram @ria_designz, LinkedIn @Osetiemoria Ebelubhuhi
 
 <!---
